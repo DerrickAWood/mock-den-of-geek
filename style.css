@@ -1,0 +1,12 @@
+.xbox{
+  background-image: url("https://techcrunch.com/wp-content/uploads/2017/06/e3-xbox-2017-scorpio_280.jpg?w=730&crop=1");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-size: cover;
+}
+
+
+.box5{
+  height: 800px;
+}
